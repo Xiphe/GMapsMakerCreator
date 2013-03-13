@@ -1,0 +1,15 @@
+{
+    "name": "xiphe/gmaps-marker-creator",
+    "description": "A small API that creates custom markers for Google Maps",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "homepage": "https://github.com/Xiphe/GMapsMakerCreator",
+    "authors": [
+        {
+            "name": "Hannes Diercks",
+            "email": "info@xiphe.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    }
+}
