@@ -60,6 +60,8 @@ class Marker {
 		if (strlen($value) > 2) {
 			return substr($value, 0, 2);
 		}
+
+		return $value;
 	}
 
 	public function normalize_font_weight($value)
